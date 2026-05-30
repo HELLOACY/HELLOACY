@@ -1,64 +1,63 @@
-# Ahmet Can Yesildag
+# Ahmet Can Yeşildağ
 
-**Senior Hospitality Executive · Founder · Cornell SHA Alumni**
+Senior Hospitality Executive · Cornell GMP · Past President, Skål International Baku Chapter (Azerbaijan), 2013–2017
 
-[![Website](https://img.shields.io/badge/Website-ahmetcanyesildag.com-0a66c2?style=flat&logo=google-chrome&logoColor=white)](https://ahmetcanyesildag.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fahmetcanyesildag-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetcanyesildag)
-[![YouTube](https://img.shields.io/badge/YouTube-%40wishsomebodytoldme-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@wishsomebodytoldme)
-[![Instagram](https://img.shields.io/badge/Instagram-%40ahmetcanyesildag-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ahmetcanyesildag)
-[![Email](https://img.shields.io/badge/Email-hello%40ahmetcanyesildag.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hello@ahmetcanyesildag.com)
+[![Website](https://img.shields.io/badge/Website-ahmetcanyesildag.com-blue?logo=safari&logoColor=white)](https://ahmetcanyesildag.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/ahmetcanyesildag-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetcanyesildag) [![YouTube](https://img.shields.io/badge/YouTube-@wishsomebodytoldme-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@wishsomebodytoldme) [![Instagram](https://img.shields.io/badge/Instagram-@ahmetcanyesildag-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ahmetcanyesildag) [![Email](https://img.shields.io/badge/Email-hello@ahmetcanyesildag.com-D14836?logo=gmail&logoColor=white)](mailto:hello@ahmetcanyesildag.com)
 
 ---
 
-## About Me
+## About
 
-I'm a **Senior Hospitality Executive** with 30+ years of global leadership experience across luxury hotels, wellness retreats, and hospitality education. Based in **Oakville, Ontario, Canada**.
+Thirty years inside the hospitality industry — senior leadership at Hilton, Radisson, Marriott, Hyatt, Sheraton, Titanic, and Swissôtel across five continents. Cornell General Managers Program (2015). Past President, Skål International Baku Chapter (Azerbaijan), 2013–2017. Certified Hotel Administrator. Carlson Rezidor Best Performance Hotel, Eastern Europe (2014). Based in Oakville, Ontario, Canada.
 
-- 🏨 **Founder** of [Orophile Wellness Journeys](https://ahmetcanyesildag.com/orophile) — curating transformative luxury wellness travel
-- - 🎓 **Cornell SHA** · Certified Hotel Administrator (CHA) · Cornell General Managers Program (GPA 4.59)
-  - - 🌍 Global leadership roles across 5 continents in luxury hospitality
-    - - 📺 Creator of **"Wish Somebody Told Me"** — a YouTube series on leadership, hospitality & life lessons
-      - - ✍️ Writer on hospitality strategy, leadership, and wellness at [ahmetcanyesildag.com/blog](https://ahmetcanyesildag.com/blog)
-       
-        - ---
+I run **Greenmountains Trade Ltd.** — a Canadian federal corporation (CBCA #1373422-6) operating five public-facing trading styles. Greenmountains Trade Ltd. is the legal umbrella and roof company above all. The work composes into one cause: to elevate hospitality from a service industry to a craft of human dignity at scale, and to put thirty years of operational truth inside the AI systems that will define hospitality's next thirty.
 
-        ## What I'm Working On
+The full thesis is *Signals and Noise: An Accounting of a Lifespan* — twenty-five chapters across three volumes, also available as a 7-hour audiobook on ElevenReader. Read the framework at [ahmetcanyesildag.com/cause](https://ahmetcanyesildag.com/cause).
 
-        - 🚀 Building **Orophile Wellness Journeys** — a curated platform for high-end wellness travel experiences
-        - - 🌐 Publishing articles on hospitality leadership, luxury travel, and personal growth
-          - - 📚 Developing a reading list and curated toolkit for hospitality professionals
-           
-            - ---
+---
 
-            ## My Stack (for this site)
+## What the corporation does
 
-            ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-            ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-            ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-            ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-            ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
-            ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- 🏛️ **Greenmountains · Executive Consultancy** — board-level advisory for hotel groups and the technology companies building hospitality's next layer.
+- 🏔️ **Orophile** (Wellness Journeys) — longevity-focused advisory using landscape as method. Day-rate engagements, Discovery Consultations, Strategic Reviews. The Dolomites program is the embodied expression of the method.
+- 🌐 **owj.life** — the Validated-Learning Engine; conversational concierge for the wellness-landscape practice.
+- 📖 **Orophile** (Edit) — the editorial publication. The serious long-form reference for the wellness-retreat category. Twelve editions per year. Edition I publishes 15 July 2026.
+- 🧩 **Build Life Puzzle** (5th trading style) — coaching and mentoring built on the *Missing Pieces of Life Puzzle* book series. Structured engagements for executives in mid-career inflection.
 
-            ---
+---
 
-            ## Featured Repository
+## What's on the bench
 
-            | Project | Description | Status |
-            |---|---|---|
-            | [ahmetcanyesildag-site](https://github.com/HELLOACY/ahmetcanyesildag-site) | Personal authority site — Webflow export + custom overlays, deployed via Netlify | 🟢 Live |
+- ✍️ Writing on hospitality strategy, leadership, and the standardised systems that absorb or restore human dignity at [ahmetcanyesildag.com/blog](https://ahmetcanyesildag.com/blog).
+- 🎙️ "Wish Somebody Told Me" — a YouTube series on leadership, hospitality, and the lessons that arrive on the night shift, not in the textbook.
+- 📚 *Signals and Noise* is in trade-paperback production. Edition I of *Orophile Edit* publishes 15 July 2026.
 
-            ---
+---
 
-            ## Connect With Me
+## Stack (for this site)
 
-            I'm always open to conversations about **hospitality leadership**, **luxury wellness travel**, **personal branding**, and **executive development**.
+The site at [ahmetcanyesildag.com](https://ahmetcanyesildag.com) is an Eleventy 3.x static build, templated in Nunjucks, deployed to Netlify from a Git source. JSON-LD entity graph, FAQ schema, and Local-Business schema all hand-curated.
 
-            > *"Leadership is not about being in charge. It is about taking care of those in your charge."*
-            >
-            > 📬 Reach me at [hello@ahmetcanyesildag.com](mailto:hello@ahmetcanyesildag.com) or connect on [LinkedIn](https://www.linkedin.com/in/ahmetcanyesildag).
-            >
-            > ---
-            >
-            > <p align="center">
-              <img src="https://komarev.com/ghpvc/?username=HELLOACY&label=Profile+Views&color=0a66c2&style=flat" alt="Profile Views" />
-              </p>
+![Eleventy](https://img.shields.io/badge/Eleventy-3.x-1A1A1A?logo=eleventy&logoColor=white) ![Nunjucks](https://img.shields.io/badge/Nunjucks-templating-1E8649?logo=nunjucks&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-hosting-00C7B7?logo=netlify&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-semantic-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-custom-1572B6?logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-source-181717?logo=github&logoColor=white)
+
+---
+
+## Featured Repository
+
+| Project | Description | Status |
+|---|---|---|
+| [ahmetcanyesildag-site](https://github.com/HELLOACY/ahmetcanyesildag-site) | Personal authority site — Eleventy 3.x + Nunjucks, deployed via Netlify. JSON-LD entity graph for the corporation and its five trading styles. | 🟢 Live |
+
+---
+
+## Connect
+
+I'm open to conversations about hospitality leadership, executive consultancy for hotel groups and hospitality-AI companies, wellness travel advisory, and the practice of running a corporation as a craft rather than a transaction.
+
+> *"Leadership is not about being in charge. It is about taking care of those in your charge."*
+
+📬 [hello@ahmetcanyesildag.com](mailto:hello@ahmetcanyesildag.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/ahmetcanyesildag) · 🌐 [ahmetcanyesildag.com](https://ahmetcanyesildag.com)
+
+---
+
+<sub>Greenmountains Trade Ltd. (CBCA #1373422-6) · Oakville, Ontario, CA · All trading styles operate under this single federal entity. · Carlson Rezidor Best Performance Hotel, Eastern Europe, 2014.</sub>
