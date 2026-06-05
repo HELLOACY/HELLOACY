@@ -20,7 +20,7 @@ The full thesis is *Signals and Noise: An Accounting of a Lifespan* — twenty-f
 
 - 🏛️ **Greenmountains · Executive Consultancy** — board-level advisory for hotel groups and the technology companies building hospitality's next layer.
 - 🏔️ **Orophile** (Wellness Journeys) — longevity-focused advisory using landscape as method. Day-rate engagements, Discovery Consultations, Strategic Reviews. The Dolomites program is the embodied expression of the method.
-- 🌐 **owj.life** — the Validated-Learning Engine; conversational concierge for the wellness-landscape practice.
+- 🌐 **owj.life** — the Validated-Learning Engine; conversational guide for the wellness-landscape practice.
 - 📖 **Orophile** (Edit) — the editorial publication. The serious long-form reference for the wellness-retreat category. Twelve editions per year. Edition I publishes 15 July 2026.
 - 🧩 **Build Life Puzzle** (5th trading style) — coaching and mentoring built on the *Missing Pieces of Life Puzzle* book series. Structured engagements for executives in mid-career inflection.
 
